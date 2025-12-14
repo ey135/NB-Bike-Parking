@@ -7,3 +7,4 @@ I collected the bike parking data myself in a field audit, the demographic data 
 
 Here is an interactive map of the bike parking locations I documented:
 <iframe src="webmap.html" height="925" width="925"></iframe>
+The bike rack icons are by Lluisa Iborra from Noun Project
