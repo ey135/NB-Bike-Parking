@@ -5,6 +5,12 @@ An inventory of downtown New Brunswick's bike parking
 
 I collected the bike parking data myself in a field audit, the demographic data is from the 2020 Census and the transit data is from NJGIN.
 
+
+
 Here is an interactive map of the bike parking locations I documented:
 <iframe src="webmap.html" height="925" width="925"></iframe>
 The bike rack icons are by Lluisa Iborra from Noun Project
+
+<img src="Images/choropleths.png">
+
+<img src="Images/transit.png">
